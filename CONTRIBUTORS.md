@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Denny Pradipta](https://github.com/dennydap)
+- Place: Jakarta Selatan, DKI Jakarta, Indonesia
+- Bio: Web and Mobile Developer
+- GitHub: [dennydap](https://github.com/dennydap)
